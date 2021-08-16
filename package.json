@@ -1,0 +1,18 @@
+{
+  "name": "@thornfe/next-css",
+  "version": "0.0.1",
+  "description": "CSS plugins for next.js, supports custom css config.",
+  "main": "index.js",
+  "repository": "https://github.com/thornfe/next-css.git",
+  "author": "ThornWu <thornwu@163.com>",
+  "license": "MIT",
+  "dependencies": {
+    "css-loader": "^6.2.0",
+    "extracted-loader": "^1.0.7",
+    "find-up": "^5.0.0",
+    "ignore-loader": "^0.1.2",
+    "mini-css-extract-plugin": "^2.2.0",
+    "postcss-loader": "^6.1.1",
+    "webpack": "^5.50.0"
+  }
+}
