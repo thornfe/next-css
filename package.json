@@ -1,6 +1,6 @@
 {
   "name": "@thornfe/next-css",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "CSS plugins for next.js, supports custom css config.",
   "main": "index.js",
   "repository": "https://github.com/thornfe/next-css.git",
